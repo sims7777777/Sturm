@@ -6,7 +6,7 @@ Als angehender Lehrer im Fach Lehramt mit den Schwerpunkten Naturwissenschaft un
 
 ## Repräsentatives Bild
 
-![Meine Welt](Downloads/labor_iwar_1180x0.jpg)
+![Meine Welt](/sturm.jpg)
 
 In diesem Bild ist die Dynamik eines Klassenzimmers zu sehen, in dem Schüler aktiv experimentieren und lernen. Die chemischen Elemente und ihre Verbindungen sind visuell präsent, um die Aufregung für das Fach zu symbolisieren.
 
