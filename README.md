@@ -1,2 +1,2 @@
-# Sturm
-Erstes Rpository
+# Sturm Simon
+Repository für digitale Helfer
